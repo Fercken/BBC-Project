@@ -1,0 +1,72 @@
+/*** Estilos ***/
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+#topbar{
+	width: 1100px;
+	height: 40px;
+	background-color: #FFFFFF;
+	margin: 0 auto; /*centrado*/
+}
+
+#logo{
+	margin-top: 8px;
+	float:left;
+	margin-right: 8px;
+}
+
+.topbar_section{
+	float: left;
+	border-left: 1px solid #CCCCCC;
+	height: 100%;
+}
+
+.topbar_menu{
+	font-weight: bold;
+	font-size: 85%;
+	padding: 13px 15px 0 15px;
+	height: 27px;
+}
+
+#img_sign_in{
+	width: 25px;
+	margin: 5px 8px;
+	float: left;
+}
+
+#text_sign_in{
+	font-weight: bold;
+	font-size: 85%;
+	position: relative;
+	top: 10px;
+	padding-right: 65px;
+}
+
+#arrow_more{
+	width: 20px;
+	height: 20px;
+	float: right;
+	margin-left: 60px;
+}
+
+#search_box{
+	background-color: #E4E4E4;
+	border: none;
+	font-family: Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	width: 150px;
+	float: left;
+	margin: 5px 0px 5px 5px; 
+	padding: 5.5px;
+}
+
+#lupa{
+	height: 27px;
+	margin-top: 5px;
+
+}
